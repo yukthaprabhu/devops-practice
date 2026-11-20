@@ -1,0 +1,6 @@
+My First DevOps Practice
+
+Hello! My name is Yuktha.
+I am learning Linux commands.
+I am learning Git and GitHub.
+DevOps combines Development and Operations.
